@@ -6,7 +6,7 @@ def menu():
       while True:
            print("")
            os.system('clear')
-           print('\033[1;31m                          By ----} Mahmoud McDoda')
+           print('\033[1;31m                          By ----} Ahmed AL-Alamy')
            print(' \033[1;33m                   << --------AL-AlamySploit-------- >>')
            print("")
            print('\033[1;37m                               -------------')
